@@ -1,4 +1,4 @@
-# [PremiaTalk(仮)]
+cd # [PremiaTalk(仮)]
 
 # サービス概要
 
@@ -79,4 +79,4 @@ youtubeのハイライト動画のコメント欄やSNSでの投稿など色々�
 https://www.figma.com/file/uiMlZNNUIIMXct48IkZBn5/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=B0h3gp4oxXO6hE4a-1
 
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/e4a2cad9d94627498af9038fb6c2551e.png)](https://gyazo.com/e4a2cad9d94627498af9038fb6c2551e)
+[![Image from Gyazo](https://i.gyazo.com/df40f7b3fe729be035b7752baa19f968.png)](https://gyazo.com/df40f7b3fe729be035b7752baa19f968)
