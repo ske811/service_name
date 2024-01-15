@@ -79,4 +79,4 @@ youtubeのハイライト動画のコメント欄やSNSでの投稿など色々�
 https://www.figma.com/file/uiMlZNNUIIMXct48IkZBn5/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=B0h3gp4oxXO6hE4a-1
 
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/c47bbee9600a88e942925699f4ae3d58.png)](https://gyazo.com/c47bbee9600a88e942925699f4ae3d58)
+[![Image from Gyazo](https://i.gyazo.com/7f3d340a51702a8c32eb78ca20643d8f.png)](https://gyazo.com/7f3d340a51702a8c32eb78ca20643d8f)
